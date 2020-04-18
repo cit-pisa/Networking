@@ -17,3 +17,4 @@ Some useful stuff about networking and CyberSecurity:
 Giuseppe Augiero's home page:
 https://www.augiero.it/
 
+Cisco Academy free resources for COVID-19 period: https://www.scuoladigitalecisco.it/solidarieta-digitale-emergenza-covid-19/
